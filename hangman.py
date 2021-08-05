@@ -1,4 +1,4 @@
-#If you are trying this program in colab, use the below mentioned codes.
+#If you are trying this program in colab, use the below mentioned code.
 ##from google.colab import files
 
 
@@ -6,7 +6,7 @@
 import random
 
 # Here the user is asked to enter the name first
-name = input("What is your name? ")
+name = input("What is your name?")
 
 print("Good Luck {0} !! ".format(name))
 
