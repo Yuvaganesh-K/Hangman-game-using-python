@@ -1,7 +1,3 @@
-#If you are trying this program in colab, use the below mentioned code.
-##from google.colab import files
-
-
 # library that we use in order to choose on random words from a list of words
 import random
 
